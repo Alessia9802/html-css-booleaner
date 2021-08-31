@@ -83,3 +83,31 @@
 .azzurro {
   background-color: rgb(180, 242, 253);
 }
+
+.titolofinale {
+  margin-left: 80px;
+  text-align: left;
+  color: rgb(97, 97, 97);
+}
+
+.uno {
+  margin-left: 80px;
+  color: white;
+  background-image: url("img/monitor.jpg");
+  background-repeat: no-repeat;
+  text-align: center;
+  width: 280px;
+  height: 150px;
+  font-style: bold;
+}
+
+.due {
+  margin-left: 80px;
+  color: white;
+  background-image: url("img/graph.jpg");
+  background-repeat: no-repeat;
+  text-align: center;
+  width: 280px;
+  height: 150px;
+  font-style: bold;
+}
